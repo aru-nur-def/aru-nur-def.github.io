@@ -1,0 +1,212 @@
+* {
+    margin: 0;
+    padding: 0;}
+.header {
+    background-color: rgb(236, 236, 236);
+}
+.container1 {
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 80px;
+    padding-top: 20px;
+}
+
+.logo {
+    float: left;
+    height: 100%;
+}
+#logo1 {
+    height: 100%;
+}
+.menu {
+    float: right;
+    display: flex;
+}
+.mlist {
+    font-size: 20px;
+    margin-left: 30px;
+    color: rgb(0, 0, 0);
+    transition: 0.3s;
+}
+.mlist1 {
+    font-size: 20px;
+    margin-left: 30px;
+    color: rgb(2, 1, 99);
+    transition: 0.3s; 
+}.container2 {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(236, 236, 236);
+
+}
+.cont_text {
+    width: 50%;
+    float: right;
+    margin: 100px 0px 0px 100px;
+
+
+}
+.video {
+    width: 40%;
+    float: left;
+
+}
+
+#logo2 {
+    width: 70%;
+    margin: 100px 10px 0px 100px;
+
+}
+.q {
+    margin: 37px 0px 0px 0px;
+
+}
+.cont {
+    margin: 0px 0px 0px 500px;
+    width: 50%;
+}
+.header_content {
+    height: 400px;
+    padding-top: 1px;
+    background-color: rgb(236, 236, 236);
+}
+.poiu {
+        height: 350px;
+        padding-top: 100px;
+        background-color:white; 
+}
+.poi {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.po {
+    text-align: center;
+    width: 500px;
+    margin: 0px 0px 0px 300px;
+
+}
+
+.p {
+    margin: 30px 0px 0px 30px;  
+    width: 100%;
+}
+.asu {
+    background-color: rgba(52, 84, 122, 1);
+    padding: 6%;
+    margin-left: 0%;
+}
+.header_content12 {
+    height: 450px;
+    padding-top: 100px;
+    background-color: white;
+}
+
+.container21 {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.cont_text1 {
+    width: 60%;
+    float: left;
+}
+.video1 {
+    width: 30%;
+    float: right;
+}
+
+#logo21 {
+    width:120%;}
+.form-label {
+    margin-top: 20px;
+}
+.form-range {
+    width: 100%;
+}
+.poiu1 {
+    height: 900px;
+    padding-top: 100px;
+    background-color:rgb(236, 236, 236); 
+}
+.poi1 {
+max-width: 1000px;
+margin: 0 auto;
+}
+.po1 {
+text-align: center;
+width: 500px;
+margin: 0px 0px 0px 230px;
+
+}
+
+.p1 {
+margin: 30px 0px 0px 30px;  
+width: 100%;}
+.video7 {
+    width: 180%;
+    float: right;
+}
+
+#logo8 {
+    width: 100%;
+    margin: 50px 20px 20px 250px;}
+.qw {
+    width: 100%;
+}
+.asus1 {
+    max-width: 10000px;
+    margin: 0 auto;
+    height: 80px;
+    padding-top: 200px;
+    background-color:white;}
+.asu1 {  
+float: left;
+height: 100%;
+}
+#as1 {
+    height: 100%;
+}
+.poiu12 {
+    height: 700px;
+    padding-top: 100px;
+    background-color:rgb(236, 236, 236); 
+}
+.poi12 {
+max-width: 1000px;
+margin: 0 auto;
+}
+.po12 {
+text-align: center;
+width: 500px;
+margin: 0px 0px 0px 230px;
+
+}
+
+.p12 {
+margin: 30px 0px 0px 30px;  
+width: 100%;}
+.row {
+   margin-top: 50px;
+
+}
+.form-floating {
+    margin-top: 20px;
+}
+.btn btn-primary {
+    width: 30%;
+    height: 10%;
+}
+#pol {
+    margin: 0px 0px 0px 110px;
+}
+.azz {
+    max-width: 10000px;
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 200px;
+    background-color: 
+    rgba(52, 84, 122, 1);
+    color: white;
+}
+.zol1 {
+    padding-top: 40px;}
+
